@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-searcher-890d3": {
+      "hosting": {
+        "TravelGram": [
+          "github-searcher-890d3"
+        ]
+      }
+    }
+  }
+}
